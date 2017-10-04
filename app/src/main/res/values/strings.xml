@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Masakan Indonesia</string>
+
+    <string-array name="judul">
+        <item>Ayam Geprek</item>
+        <item>Mie Goreng</item>
+        <item>Pisang Coklat</item>
+        <item>Tahu Gejrot</item>
+        <item>Nasi Goreng</item>
+        <item>Es Teller</item>
+        <item>Pudding Coklat</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Ayam empuk dengan rasa pedas serta daging ayamnya empuk banget dan bumbunya meresap hingga ke dalam.</item>
+        <item>Miegoreng spesial dengan racikan bumbu khusus yang istimewa.</item>
+        <item>Legit dan manisnya pisang coklat</item>
+        <item>Nikmati tahu pedas dengan sensasi hot</item>
+        <item>Nasi goreng rumahan dengan citarasa yang enak, gurih yang dapat anda hadirkan di tengah keluarga anda.</item>
+        <item>Es Teller bikinan sendiri lebih bersih sehat dan tentunya enak</item>
+        <item>Puding yang memiliki tekstur yang kenyal, cantik warnanya dan pastinya maknyus rasanya.</item>
+    </string-array>
+    <string-array name="bahan_bahan">
+        <item>
+        Bahan-bahan :\n
+•	1 ekor ayam (potong-potong)\n
+•	5 siung bawang putih\n
+•	5 siung bawang merah\n
+•	2 cm kunyit\n
+•	3 lembar daun salam\n
+•	1 cm lengkuas (remukkan) \n
+•	1 batang serai (remukkan) \n
+•	Air putih secukupnya\n
+•	Garam secukupnya\n\n
+
+        Bahan-bahan sambal :\n
+•	15 buah cabe rawit\n
+•	2 siung bawang putih\n
+•	5 siung bawang merah\n
+•	Garam secukupnya\n
+
+        </item>
+
+        <item>
+•	1 bungkus mie telur, rebus dan tiriskan\n
+•	1 butir telur\n
+•	1 batang daun bawang/unclang, iris-iris\n
+•	1 batang seledri, iris-iris\n
+•	1 buah tomat, potong melingkar\n
+•	2 lembar daun sawi, potong setiap ukuran 4cm\n
+•	2 lembar kol, potong setiap ukuran 4cm\n
+•	3 butir bawang putih, cincang kecil-kecil\n
+•	3 butir bawang merah, iris-iris dan goreng untuk taburan\n
+•	3 butir kemiri, sangrai dan haluskan\n
+•	3 buah cabe setan, potong serong10 butir bakso sapi, potong 2 bagian saja\n
+•	100g udang ukuran sedang, kupas kulitnya dan belah punggungnya\n
+•	1/2 sdt garam\n
+•	1/2 sdt gula pasir\n
+•	1/4 sdt lada bubuk\n
+•	1/2 sdt penyedap rasa\n
+•	4 sdm kecap manis\n
+•	Minyak wijen secukupnya\n
+•	Angciu secukupnya\n
+•	Minyak goreng untuk menumis\n
+•	Air secukupnya\n\n
+
+        </item>
+
+        <item>
+Bahan–bahan pisang coklat :\n
+•	Pisang 1 sisir\n
+•	Telur ayam 1 butir\n
+•	Coklat kering 100 gram\n
+•	Minyak goreng 1 kg\n\n
+Bahan pelapis :\n
+•	Kulit lumpia\n\n
+
+        </item>
+
+        <item>
+Bahan-bahan Tahu Gejrot : \n
+•	Tahu pong 15 buah atau tahu sumedang ( dipotong-potong menjadi 4 bagian ) \n
+•	Air 250 mili liter\n
+•	Air asam jawa 3 sendok makan\n
+•	Kecap pedas manis 2 sendok makan ( atau kecap manis ) \n
+•	Kecap asin 1 sendok makan\n
+•	Garam 1/2 sendok teh ( atau sesuai selera ) \n
+•	Gandu 1/2 atau gula merah 3 sendok makan ( disisir ) \n\n
+Bumbu Ulek Kasar Tahu Gejrot : \n
+•	Cabai rawit merah 3 buah\n
+•	Bawang merah 3 butir\n
+•	Bawang putih 2 siung\n
+
+        </item>
+        <item>
+
+•	2 piring nasi putih\n
+•	2 buah bawang putih\n
+•	3 buah bawang merah\n
+•	2 buah cabai rawit dipotong kecil – kecil secara menyerong\n
+•	Saos tomat secukupnya\n
+•	Daun bawang 1 batang\n
+•	Sebutir telur ayam\n
+•	2 sendok  minyak goreng\n
+•	Merica secukupnya atau sesuai selera\n
+•	Garam dapur secukupnya\n
+•	Ayam, Udang, Bakso sesuai selera bisa diganti dengan sapi / petai\n\n
+
+        </item>
+        <item>
+•	1 liter santan, atau hasil dari 1 buah kelapa\n
+•	250 gram kolang-kaling\n
+•	es serut secukupnya\n
+•	150 mililiter susu kental manis\n
+•	15 biji nangka, potong dadu\n
+•	1 liter sirup pandan\n
+•	Garam secukupnya\n
+•	1 lembar daun pandan\n
+•	150 gram gula pasir\n
+•	4 buah kelapa muda, ambil dagingnya\n
+•	3 buah alpukat, potong-potong\n
+•	Agar-agar bubuk 1 bungkus\n
+
+        </item>
+        <item>
+Bahan puding coklat :\n
+•	1 bungkus agar-agar bubuk\n
+•	150 gram gula pasir\n
+•	1/2 sendok teh garam\n
+•	1/2 kaleng susu kental manis coklat\n
+•	1 sendok makan cokelat bubuk\n
+•	1 liter air masak (pakek susu cair juga boleh) \n\n
+
+Bahan saus vla : \n
+•	1 kaleng susu evaporated\n
+•	200 ml susu cair\n
+•	4 sendok makan gula pasir\n
+•	2 sendok teh tepung custard\n
+•	1/2 sendok teh vanilla extract\n
+•	2 sendok teh maizena\n
+
+        </item>
+    </string-array>
+
+    <string-array name="langkah_langkah">
+        <item>
+
+1. Giling sampai halus semua bumbu-bumbu seperti bawang merah, bawang putih, lengkuas, serai, kunyit, daun salam, dan garam. \n\n
+2. Jika bumbu sudah halus, sekarang lumurkan bumbu ke daging ayam sampai merata. Lalu masukkan ayam yang sudah dilumuri tadi ke dalam wajan yang sudah diberi air. Kemudian masak sampai daging ayam terasa empuk dan matang. \n\n
+3. Sekarang goreng ayam goreng sampai berubah warna menjadi kuning kecoklatan. Dan tiriskan. \n\n
+4. Goreng semua bahan-bahan sambal yang sudah disiapkan tadi sampai layu. Kemudian giling sampai kasar. Dan tambahkan juga garam secukupnya agar lebih terasa. \n\n
+5. Terakhir, tinggal geprek ayam yang sudah digoreng tadi dengan ulekan sampai remuk. Ayam geprek enak dan super pedas pun siap untuk disajikan. \n\n
+
+
+        </item>
+        <item>
+1.	Panaskan wajan dengan minyak goreng, masukkan telur yang sudah di kocok terlebih dahulu, tumis sampai matang, aduk-aduk, angkat dan tiriskan. \n\n
+2.	Panaskan wajan kembali dengan minyak goreng, masukkan udang, tumis hingga berubah warna, masukkan bawang putih yang sudah dicincang beserta kemiri yang telah di haluskan, tumis hingga harum. Masukkan telur yang kita tiriskan tadi dan potongan bakso sapi, aduk sampai rata, tambahkan sedikit air, jangan terlalu banyak. Masukkan potongan daun sawi dan potongan kol, tambahkan garam, gula pasir, lada bubuk dan penyedap rasa. Aduk sampai rata. \n\n
+3.	Masukkan mie telur yang telah direbus sebelumnya, tambahkan potongan cabe setan dan kecap manis, aduk hingga rata, usahakan saat mengaduk mie jangan sampai mie nya putus agar tak merusak mie nya saat disajikan. masukkan 1 potong tomat, daun bawang dan seledri. Tambahkan minyak wijen dan angciu secukupnya. Aduk-aduk, matikan api, angkat dan sajikan selagi masih hangat. \n\n
+
+
+        </item>
+        <item>
+
+1.	Kupas pisang lalu potong memanjang sesuai selera. \n\n
+2.	Lumuri pisang yang sudah dipotong-potong dengan coklat\n\n
+3.	Balut bagian luar pisang yang sudah dilumuri coklat dengan bahan pelapis yaitu kulit lumpia. \n\n
+4.	Kemudian gulung sampai pisang tertutupi semua oleh kulit lumpia. Ulangi sampai semua bahan pisang coklat habis. \n\n
+5.	Selanjutnya, goreng pisang coklat yang sudah dibalut dengan kulit lumpia sampai earna uning kecoklatan atau sampai matang. Angkat dan sajikan. \n\n
+        </item>
+        <item>
+1.	Pertama-tama campurkan air , gula merah , air asam jawa , kecap manis , kecap asin , dan garam . lalu rebus hingga mendidih . matikan api dan biarkan dingin lalu campurkan kuah dengan bumbu yang sudah diulek kasar. \n\n
+2.	Selanjutnya masukkan potongan tahu kedalam mangkuk saji , kemudian sirami dengan kuah sambalnya. \n\n
+3.	Resep Tahu Gejrot Cirebon Enak siap untuk dihidangkan. \n\n
+
+        </item>
+        <item>
+1. Tuang minyak goreng ke dalam wajan, panaskan menggunakan api sedang. Masukkan minyak wijen, bawang putih, bawang merah dan cabai yang sudah disiapkan tadi dan telah dihaluskan sampai matang danmengeluarkan aroma yang harum. \n\n
+2. Masukkan bahan campuran seperti ayam, udang, atau yang lainya, Kemudian aduk sampai rata dan matang. \n\n
+3. Masukkan 1 telur ayam, lalu orak-arik sampai matang. \n\n
+4. Masukkan nasi putih, aduk sampai rata dengan semua bahan diatas, kemudian tambahkan dengan saos tomat, garam dan merica sampai semua merata. \n\n
+5. Angkat dan nasi goreng siap untuk dihidangkan dan siap sisantap. \n\n
+6. Untuk mempercantik penataan nasi goreng tersebut dapat ditambahkan dengan tomat, acar, dan irisan cabai merah sesuai selera. \n\n
+
+        </item>
+        <item>
+1.	Rebus santan daun pandan, dan tambahkan garam hingga mendidih. sambil diaduk agar tidak pecah, angkat dan dinginkan\n\n
+2.	Rebus kolang-kaling serta gula pasir 75 gram, lalu rebus hingga lunak dan buang airnya\n\n
+3.	Kemudian, Buat agar-agar dengan cara ddicampur air, gula pasir 75 gram dan agar-agar, rebus hinggamendidih, angkat dan bekukan, jika sudah beku serut dengan serutan keju\n\n
+4.	Sekarang penyajianya dengan cara dimasukan ke mangkok yaitu, kolang-kaling, nagka, alpukat, dan agar-agar serut\n\n
+5.	Kemudian tuangkan sirup dan santan secukupnya saja, tambahkan sirup dan susu kental manis.\n\n
+
+        </item>
+        <item>
+1.	Siapkan mangkuk berukuran agak besar, masukkan semua bahan puding coklat (kecuali gula dan garam), aduk hingga tercampur rata dan menjadi larutan, kemudian saring. Setelah itu, tuangkan ke dalam panci. \n\n
+2.	Tambahkan gula pasir dan garam, kemudian aduk hingga tercampur rata. Masak hingga mendidih dengan api sedang sambil sesekali diaduk. Angkat dan diamkan hingga uap panasnya menghilang. \n\n
+3.	Tuangkan larutan puding coklat ke dalam cetakan yang telah dibasahi sedikit air sebelumnya. Untuk cetakan/ loyangnya sesuai selera anda. Setelah itu, masukkan cetakan/ loyang berisi puding ke dalam kulkas dan tunggu hingga puding benar-benar keras. \n\n
+4.	Untuk saus vlanya, masukkan semua bahan (kecuali gula pasir) ke dalam wadah yang berbeda. Aduk hingga tercampur rata dan licin, kemudian saring. \n\n
+5.	Masukkan ke dalam panci, tambahkan gula, dan masak hingga meletup-letup dan mengental. Angkat dari kompor dan biarkan saus vlanya dingin dulu. \n\n
+
+        </item>
+
+    </string-array>
+
+
+
+    <!--test string-->
+    <string name="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi quis similique tempora.
+        Asperiores delectus dolores doloribus error eveniet libero magnam modi molestias, non, odio
+        officiis placeat repudiandae sed, veniam voluptas.
+    </string>
+</resources>
